@@ -1,0 +1,15 @@
+{
+    "name": "wangziwen/my-composer",
+    "description": "my-composer",
+    "autoload": {
+        "psr-4": {
+            "Wangziwen\\MyComposer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "wangziwen"
+        }
+    ],
+    "require": {}
+}
